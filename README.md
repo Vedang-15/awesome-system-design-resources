@@ -5,7 +5,7 @@
   <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
 </p>
 
-This repository contains resources to learn System Design concepts and prepare for interviews.(This is Verdang's forked version)
+This repository contains resources to learn System Design concepts and prepare for interviews.(This is Vedang's forked version)
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
